@@ -1,0 +1,27 @@
+{
+  "name": "error-handling-nodejs",
+  "version": "1.0.0",
+  "description": "Script to handle common exception and error in NodeJs.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jay58/error-handling-nodejs.git"
+  },
+  "keywords": [
+    "error",
+    "nodejs"
+  ],
+  "author": "Jay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jay58/error-handling-nodejs/issues"
+  },
+  "homepage": "https://github.com/jay58/error-handling-nodejs#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
